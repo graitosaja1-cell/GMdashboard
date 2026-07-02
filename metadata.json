@@ -1,0 +1,6 @@
+{
+  "name": "GAJAH MAS - Manajemen Keuangan",
+  "description": "Aplikasi manajemen keuangan real-time untuk pembukuan penjualan, rekap harian, dan laporan kas.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
